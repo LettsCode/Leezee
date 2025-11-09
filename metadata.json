@@ -1,0 +1,5 @@
+{
+  "name": "Visual Video Describer",
+  "description": "An application that uses Gemini to analyze uploaded videos and generate detailed visual descriptions to improve accessibility for the blind and visually impaired community.",
+  "requestFramePermissions": []
+}
