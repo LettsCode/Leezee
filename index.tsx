@@ -133,6 +133,7 @@ const App = () => {
             - Follow the video's timeline chronologically.
             - Describe the setting, characters (if any), actions, and key visual cues.
             - ALWAYS include and transcribe any on-screen text, captions, or titles that appear. This is a critical requirement.
+            - Note any relationships between the audio and visuals that are relevant to understanding the video (e.g., if song lyrics match up with something shown on screen).
             - Capture the mood and key visual cues.
             - The description should be clear, concise, and suitable for a social media caption or alt-text.
             - IMPORTANT: Do not include any introductory phrases or sentences. Begin the description directly with the visual information.`;

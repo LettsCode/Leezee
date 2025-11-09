@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2024-08-05] - Enhanced AI Prompting
+
+### Changed
+- **Improved Prompt Instructions:** The system prompt for the AI has been enhanced to instruct it to include descriptions of relevant relationships between the video's audio and visuals, such as on-screen actions syncing with song lyrics.
+
 ## [2024-08-04] - Profile Management Enhancements
 
 ### Added
